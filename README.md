@@ -1,8 +1,8 @@
 <p align="center">
 <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a>
-<a href="https://vuejs.org" target="_blank"><img src="https://gateway.pinata.cloud/ipfs/QmcpRC8XNi8Ko7NcdpJebWw3aiY2LKojja3btEiFnXnVk3" width="300"></a>
-<a href="https://www.php.net"><br><img src="https://gateway.pinata.cloud/ipfs/QmfFReBkqLpRnEYz4zgSnU8YMHXQaPd5D8bfC8t6R1MuZj" width="200"></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href=""><img src="https://gateway.pinata.cloud/ipfs/QmW4XaiTL6fCRHLMi1QzuiU8uGZYUKQsY28GTNqhKZSecK" width="120"></a>
+<a href="https://vuejs.org" target="_blank"><img src="https://bafybeigxecmjtm6h3rpiw7ojnjkzvubrvlymobasbi33jydhcpouquhqxa.ipfs.dweb.link/" width="300"></a>
+<a href="https://www.php.net"><br><img src="https://bafybeih3h77ykv3iexp2lapzfgoygboghpxia6licq2hhaf5j7rms4jyti.ipfs.dweb.link/" width="200"></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href=""><img src="https://bafybeidsxqslsqap4eevu5oamx2767b2s5agw3oc2a3g2caugnv3cjlslq.ipfs.dweb.link/" width="120"></a>
 </p>
 
 # Laravel Installation Setps and Running:
@@ -33,7 +33,7 @@
 
 # Vuejs installation types in laravel :
 
-<p align="center"><a href="https://vuejs.org" target="_blank"><img src="https://gateway.pinata.cloud/ipfs/QmcpRC8XNi8Ko7NcdpJebWw3aiY2LKojja3btEiFnXnVk3" width="200"></a></p>
+<p align="center"><a href="https://vuejs.org" target="_blank"><img src="https://bafybeigxecmjtm6h3rpiw7ojnjkzvubrvlymobasbi33jydhcpouquhqxa.ipfs.dweb.link/" width="200"></a></p>
 
 ## Vuejs official Installation Guide :
 
@@ -84,7 +84,7 @@ Done.
 
 # Install the PHP MongoDB Driver
 
-<p align="center"><a href="https://www.php.net"><img src="https://gateway.pinata.cloud/ipfs/QmfFReBkqLpRnEYz4zgSnU8YMHXQaPd5D8bfC8t6R1MuZj" width="150"></a></p>
+<p align="center"><a href="https://www.php.net"><img src="https://bafybeih3h77ykv3iexp2lapzfgoygboghpxia6licq2hhaf5j7rms4jyti.ipfs.dweb.link/"" width="150"></a></p>
 
 ## Install the PHP MongoDB Driver in Linux & Mac :
 
@@ -114,7 +114,7 @@ extension="mongodb"
 
 # Installation MongoDB
 
-<p align="center"><a href=""><img src="https://gateway.pinata.cloud/ipfs/QmW4XaiTL6fCRHLMi1QzuiU8uGZYUKQsY28GTNqhKZSecK" width="100"></a></p>
+<p align="center"><a href=""><img src="https://bafybeidsxqslsqap4eevu5oamx2767b2s5agw3oc2a3g2caugnv3cjlslq.ipfs.dweb.link/" width="100"></a></p>
 
 <p align="center"><a href="https://www.mongodb.com/try/download/community"><button>MongoDB Download</button></a></p>
 
